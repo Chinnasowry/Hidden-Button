@@ -1,0 +1,26 @@
+.btn {
+    background-color: yellow;
+    padding: 20px;
+    border-radius: 10px;
+    border: 3px solid #808080
+
+}
+
+.btn:hover {
+    background-color: green;
+}
+
+.hidden {
+    display: none;
+}
+
+.showing {
+    display: block;
+    font-family: Arial, sans-serif;
+    background: #509fcd;
+    border-radius: 10px;
+    padding: 20px;
+    width: 400px;
+    margin-top: 20px;
+}
+
